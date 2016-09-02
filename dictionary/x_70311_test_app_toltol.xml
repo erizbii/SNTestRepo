@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="toltol" max_length="40" name="x_70311_test_app_toltol" type="collection"/>
+    <element label="toltol2" max_length="40" name="x_70311_test_app_toltol" type="collection"/>
 </database>
